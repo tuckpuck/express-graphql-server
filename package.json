@@ -1,0 +1,19 @@
+{
+    "name": "expressgraphql",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "devStart": "nodemon server.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "express-graphql": "^0.9.0",
+        "graphql": "^14.5.4"
+    },
+    "devDependencies": {
+        "nodemon": "^1.19.2"
+    }
+}
